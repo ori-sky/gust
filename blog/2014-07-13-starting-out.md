@@ -1,2 +1,3 @@
-% 2014-07-13
+Date: July 13, 2014
+
 First blog post.
