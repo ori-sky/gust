@@ -4,8 +4,12 @@ body {
 
 .post-panel {
 	margin-top: 13px;
-	padding-top: 13px;
-	padding-bottom: 3px;
-	padding-left: 13px;
-	padding-right: 13px;
+}
+
+.post-panel > .panel-heading {
+	border-color: #ddd;
+}
+
+.post-panel > .panel-heading > .panel-title {
+	font-variant: small-caps;
 }
