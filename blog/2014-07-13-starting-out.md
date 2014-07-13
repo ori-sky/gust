@@ -1,6 +1,6 @@
 Date: July 13, 2014
 
-This is my first post in a development blog for the Computer games Design module at the University of the West of Scotland.
+This is my first post in a development blog for the Computer Games Design module at the University of the West of Scotland.
 
 ```javascript
 console.log('test')
