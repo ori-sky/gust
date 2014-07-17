@@ -9,4 +9,4 @@ Take [Proteus](http://www.visitproteus.com/) for instance. In Proteus, player sa
 
 Reflecting on all of this, I have found myself with a brilliant game idea that I intend to use for this module's coursework. I really like the idea and feel that the actual implementation of it would be very fun. As such, I'm going to carry out this coursework to the absolute best of my ability and I intend to create the designed game at the end of all this.
 
-I plan to make a detailed blog post about the game idea tomorrow.
+I plan to post details about the game idea later this week.
